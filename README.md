@@ -1,6 +1,6 @@
-# Filtering
+# Signal Filters
 
-Current supported filter is a moving Median filter. See .\src\Filter.
+Current supported filter is a moving Median filter.
 
 This exposes a .NET standard library for filtering and is written in F#.
 
